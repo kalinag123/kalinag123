@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About me:
-- Computer Science student @ UW Bothell
+- Computer Science student
 - Working towards Graduate Certificate in Software Design and Development (June 2025)
 - Background in business analytics 
 
