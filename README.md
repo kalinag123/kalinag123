@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - :recycle: Sustainability- specifically, plastic recycling!
 
 ### My projects:
-<!-- 
-
 Object-Oriented Development 
+- [OOP Term Project - CPP](https://github.com/kalinag123/OOP-Term-Project-1)
+- [OOP Term Project - CS](https://github.com/kalinag123/OOP-Term-Project-2)
 
 Databases
 
@@ -40,7 +40,6 @@ Data Mining
 
 Data Visualization 
 
--->
 
 
 
