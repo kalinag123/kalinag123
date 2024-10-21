@@ -34,6 +34,7 @@ Databases
 - [Bank Relational Database](https://github.com/kalinag123/Bank-Relational-Database)
 
 Web Design 
+- [Planterium](https://github.com/kalinag123/Planterium)
 
 Data Structures and Algorithms 
 
