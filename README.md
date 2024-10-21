@@ -31,7 +31,7 @@ Object-Oriented Development
 - [OOP Term Project - CS](https://github.com/kalinag123/OOP-Term-Project-2)
 
 Databases
-- [Bank Relational Database](https://github.com/kalinag123/Bank-Relational-DB)
+- [Bank Relational Database](https://github.com/kalinag123/Bank-Relational-Database)
 
 Web Design 
 
