@@ -40,7 +40,7 @@ Web Design
 
 Data Mining
 - [KNN Predictive Model](https://github.com/kalinag123/Financial-Risk-Assessment-KNN)
-- [Linear Regression and Regression Tree](https://github.com/kalinag123/Real-Estate-Cost-Regression)
+- [Linear Regression and Decision Tree](https://github.com/kalinag123/Real-Estate-Cost-Regression)
 
 
 
