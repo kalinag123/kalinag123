@@ -36,11 +36,12 @@ Databases
 Web Design 
 - [Planterium](https://github.com/kalinag123/Planterium)
 
-Data Structures and Algorithms 
+<!-- Data Structures and Algorithms -->
 
 Data Mining
+- [KNN Predictive Model](https://github.com/kalinag123/Financial-Risk-Assessment-KNN)
+- [Linear Regression and Regression Tree](https://github.com/kalinag123/Real-Estate-Cost-Regression)
 
-Data Visualization 
 
 
 
