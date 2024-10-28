@@ -35,12 +35,15 @@ Databases
 
 Web Design 
 - [Planterium](https://github.com/kalinag123/Planterium)
+- [TravelSU](https://github.com/mnzarn/TravelSU-WebApp)
 
 <!-- Data Structures and Algorithms -->
 
 Data Mining
 - [KNN Predictive Model](https://github.com/kalinag123/Financial-Risk-Assessment-KNN)
 - [Linear Regression and Decision Tree](https://github.com/kalinag123/Real-Estate-Cost-Regression)
+
+Data Visualizaton 
 
 
 
